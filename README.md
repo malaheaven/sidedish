@@ -30,4 +30,12 @@
 <img width="941" alt="스크린샷 2021-07-07 오전 1 18 55" src="https://user-images.githubusercontent.com/56783350/124634431-4dc8ed00-dec1-11eb-9229-5d18b0cdd1ab.png">
 
 ## Back-end
+
+### ✨ 백엔드 공유 문서
 [notion 바로가기](https://www.notion.so/code-squad-BE-0d4771ac1b224d1f988d82542a041ca5)
+
+### ✨ API 설계 (Mock API)
+[Mock API docs 바로가기](https://documenter.getpostman.com/view/8052286/TzJuBe2M)
+
+### 💖 DB 설계(데이터 모델링)
+![DB 설계 (데이터 모델링)](https://user-images.githubusercontent.com/45054467/132850907-14ef3a3c-4848-472c-b732-6d56091636a2.png)
