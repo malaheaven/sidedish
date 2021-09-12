@@ -31,6 +31,9 @@
 
 ## Back-end
 
+### ✨ Tech Stack
+![사용기술](https://user-images.githubusercontent.com/45054467/132987835-1b5ac2b8-a442-4759-a532-c0ce8f39a2b9.png)
+
 ### ✨ 백엔드 공유 문서
 [notion 바로가기](https://www.notion.so/code-squad-BE-0d4771ac1b224d1f988d82542a041ca5)
 
