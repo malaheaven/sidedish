@@ -32,7 +32,7 @@
 ## Back-end
 
 ### ✨ Tech Stack
-![사용기술](https://user-images.githubusercontent.com/45054467/132987835-1b5ac2b8-a442-4759-a532-c0ce8f39a2b9.png)
+<img width="852"  alt="사용 기술" src="https://user-images.githubusercontent.com/45054467/132987835-1b5ac2b8-a442-4759-a532-c0ce8f39a2b9.png">
 
 ### ✨ 백엔드 공유 문서
 [notion 바로가기](https://www.notion.so/code-squad-BE-0d4771ac1b224d1f988d82542a041ca5)
@@ -41,4 +41,4 @@
 [Mock API docs 바로가기](https://documenter.getpostman.com/view/8052286/TzJuBe2M)
 
 ### 💖 DB 설계(데이터 모델링)
-![DB 설계 (데이터 모델링)](https://user-images.githubusercontent.com/45054467/132850907-14ef3a3c-4848-472c-b732-6d56091636a2.png)
+<img width="852"  alt="데이터 모델링" src="https://user-images.githubusercontent.com/45054467/132850907-14ef3a3c-4848-472c-b732-6d56091636a2.png">
