@@ -64,4 +64,4 @@
 <img width="852"  alt="데이터 모델링" src="https://user-images.githubusercontent.com/45054467/132850907-14ef3a3c-4848-472c-b732-6d56091636a2.png">
 
 ### ✨ 배포 쉘 스크립트 작성
-[배포 쉘 스크립트 ](https://malaheaven.notion.site/3b1fa810b662497aa6705266a9b6d731)
+[배포 쉘 스크립트 Notion 바로가기](https://malaheaven.notion.site/3b1fa810b662497aa6705266a9b6d731)
