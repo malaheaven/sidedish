@@ -32,7 +32,30 @@
 ## Back-end
 
 ### ✨ Tech Stack
-<img width="852"  alt="사용 기술" src="https://user-images.githubusercontent.com/45054467/132987835-1b5ac2b8-a442-4759-a532-c0ce8f39a2b9.png">
+<p>
+<img src="https://img.shields.io/badge/Java-FFA01E?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+</p>
+
+###### DB
+
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+###### Infra
+
+<p>
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+</p>
+
+###### IDE
+
+<p>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+</p>
 
 ### ✨ API 설계 (Mock API)
 [Mock API docs 바로가기](https://documenter.getpostman.com/view/8052286/TzJuBe2M)
